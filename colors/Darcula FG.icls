@@ -1,0 +1,39 @@
+<scheme name="Darcula FG" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-11-13T18:21:59</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2019-11-18T10:43:01</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b80101" />
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2f0a0f" />
+        <option name="BACKGROUND" value="66a912" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="efad2f" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="745316" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="dcfbff" />
+        <option name="BACKGROUND" value="6b5f0b" />
+        <option name="EFFECT_COLOR" value="efe94b" />
+        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
