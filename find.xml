@@ -4,10 +4,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.css" />
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
     <mask>*.css</mask>
   </component>
 </application>
